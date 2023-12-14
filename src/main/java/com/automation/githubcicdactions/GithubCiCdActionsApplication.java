@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class GithubCiCdActionsApplication {
 
 
-	@GetMapping("/get")
+	@GetMapping("/welcome")
 	public String welcome() {
 		return "Welcome to Github CI/CD Actions";
 	}
