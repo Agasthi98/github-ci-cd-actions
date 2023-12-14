@@ -36,6 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>github-action-demo-image-springboot</finalName>
 	</build>
 
 </project>
